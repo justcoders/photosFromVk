@@ -10,7 +10,7 @@ PhotosFromVk - програма що дозволить вам швидко за
 Відкрийте новую вкладку в браузері та ведіть в адресну строку такий запит:
 ``` 
 https://oauth.vk.com/authorize?client_id=6043737&display=page&redirect_uri=https://oauth.vk.com/blank.html
-&scope=friends,photos,offline&response_type=token&v=5.52 G
+&scope=photos&response_type=token&v=5.52
 ```
 
 Число 6043737 в запиті це API_ID нашеого додатку в системі VK.
